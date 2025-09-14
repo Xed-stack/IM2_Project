@@ -55,7 +55,7 @@ for key, value in myDict.items():
     print(f"{key}: {value}")   
 print()
 
-#search for a key
+#search for a value
 value = float(input("Enter a value to search: "))
 found = []
 
